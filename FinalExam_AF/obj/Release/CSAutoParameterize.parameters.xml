@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MYDB-Web.config Connection String" description="MYDB Connection String used in web.config by the application to access the database." defaultValue="data source=IBTCOLLEGE.mssql.somee.com;initial catalog=IBTCOLLEGE;user id=ibtcollege_SQLLogin_1; password=bodbhkr5z3" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\ANDRES\ FELIPE\\source\\repos\\FinalExam_AF\\FinalExam_AF\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MYDB']/@connectionString" />
+  </parameter>
+</parameters>
